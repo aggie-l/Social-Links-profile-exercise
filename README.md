@@ -14,15 +14,17 @@ Users should be able to:
 ### Screenshots
 
 - Desktop view:
+  
+<img width="902" alt="Screenshot 2024-04-25 at 22 44 21" src="https://github.com/aggie-l/Social-Links-profile-exercise/assets/142058426/cf9dba3e-c1ea-4244-a7c9-86cf6af067e8">
 
-  <img width="902" alt="Screenshot 2024-04-25 at 22 44 21" src="https://github.com/aggie-l/Social-links-profile/assets/142058426/d44bf342-ef5c-43d5-ac90-da82dab5ba36">
 
 _____________________________________________________________
 
 - Active view:
 
   
-<img width="898" alt="Screenshot 2024-04-25 at 22 44 59" src="https://github.com/aggie-l/Social-links-profile/assets/142058426/806e5f32-4cb6-4651-9561-8ff52b5e7bdb">
+<img width="898" alt="Screenshot 2024-04-25 at 22 44 59" src="https://github.com/aggie-l/Social-Links-profile-exercise/assets/142058426/da248f04-2adc-42da-b47e-bb300dbd09d0">
+
 
 
 ### Links
